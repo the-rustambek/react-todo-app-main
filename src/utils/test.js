@@ -5,7 +5,6 @@
 // 			this.state = newValue;
 // 		},
 // 	};
-
 // 	return [obj.state, obj.setState];
 // }
 
